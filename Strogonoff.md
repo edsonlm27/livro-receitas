@@ -1,23 +1,11 @@
-### # Strogonoff de Frango  :hamburger:
-
-### ###Ingredientes
+# Strogonoff  de Frango :chicken:
 
 
 
+###  Ingredientes
 
+**negrito**  _itálico_ 
 
-"negrito"  "itálico"
-
-'negrito' "itálico
-
-"sublinhado"
-
-
-
-
-
-
-
-
-
-# 
+- ingrediente 1
+- ingrediente 2
+- 
